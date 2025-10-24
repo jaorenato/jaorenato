@@ -9,8 +9,8 @@
 ## Tecnologias que estudo
 
 <div style="display: inline_block> <br />
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
